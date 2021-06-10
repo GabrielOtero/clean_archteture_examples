@@ -1,2 +1,4 @@
 rootProject.name = "clearArch"
 include ':app'
+include ':feature_a'
+include ':feature_b'
